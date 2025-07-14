@@ -8,3 +8,7 @@ Through my environmental science and policy research I largely investigate the c
 In 2024 I joined the Cooperative Institute for Research In Environmental Sciences as a member of the Environmental Data Science Innovation & Inclusion Lab. Here, I am working on a team science project focused on investigating group dynamics, research ethics, open science, DEI and justice within research teams. The project focuses on improving inclusive science and research outcomes within the environmental sciences. The goal is to also investigate institutional structures and barriers to good science, as well as team and organizational values that contribute to different research outcomes. 
 
 [Personal Website](https://kayleighward.com/)
+
+## Certifications
+* MSU onGEO Professional GIS certificate (Department of Geography, Environment, and Spatial Sciences)
+* MSU Community Engagement Certification (University Outreach and Engagement)
