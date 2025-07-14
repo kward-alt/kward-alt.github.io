@@ -1,5 +1,5 @@
 name: null
 title: null
 logo: null
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-minimal
 description: null
