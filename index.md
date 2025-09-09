@@ -14,6 +14,7 @@ I am research faculty within the Environmental Science Innovation and Impact Lab
 
 # H2OPE Project
 ![H2OPE Project](img/H2OPE_project.png)
+
 The H2OPE (pronounced hope) project emerged after my time with the Social Science Environmental Health Research Institute, where I worked within the Water Equity Team (WET) Lab. H2OPE is an extension of the original research I started under WET, and supports both undergraduate and graduate students interested in studying socio-environmental problems related to water poverty, water equity, and water accessibility. Located at the intersection of equity, public health, and climate, H2OPE produces policy relevant research on how to address modern water issues in the United States.
 
 ## Current Projects
