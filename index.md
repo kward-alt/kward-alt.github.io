@@ -19,22 +19,22 @@ The H2OPE (pronounced hope) project emerged after my time with the Social Scienc
 
 ## Current Projects
 
--Water Utility Scorecard and Affordability Dashboard: Being produced using R Shiny, the WUSA Dashboard will have data from 226 water utilities, including a scorecard function which grades water utilities on how well their existing assistance programs facilitate affordability and equity. The dashboard will be publicly accessible in 2026.
+- Water Utility Scorecard and Affordability Dashboard: Being produced using R Shiny, the WUSA Dashboard will have data from 226 water utilities, including a scorecard function which grades water utilities on how well their existing assistance programs facilitate affordability and equity. The dashboard will be publicly accessible in 2026.
 
--Water Affordability and the Climate Gap: This research arm focuses on current issues with customer assistance programs, poverty and worsening climate change (e.g.,* drought and floods) affects on water utilities. Recognizing the climate gap (see Morello‑Frosch and Obasogie, 2023), this project focuses on how the disparate burden of climate change affects the health and well-being of low-income and racially marginalized groups when it comes to water affordability. Using county-level poverty data, flood and drought data, this on-going project assesses the extent to which existing assistance programs meet local poverty needs. Using current water rate projections under climate stress, we are also identifying future trends on the widening water affordability and climate gap.
+- Water Affordability and the Climate Gap: This research arm focuses on current issues with customer assistance programs, poverty and worsening climate change (e.g.,* drought and floods) affects on water utilities. Recognizing the climate gap (see Morello‑Frosch and Obasogie, 2023), this project focuses on how the disparate burden of climate change affects the health and well-being of low-income and racially marginalized groups when it comes to water affordability. Using county-level poverty data, flood and drought data, this on-going project assesses the extent to which existing assistance programs meet local poverty needs. Using current water rate projections under climate stress, we are also identifying future trends on the widening water affordability and climate gap.
 
--Water Policy and Capital Investment Plans (CIPs): This research arm focuses on the social and environmental values embedded in water utilities CIPs to investigate the environmental moral convergence or divergence of water operators. Compared to the water utility’s mission and other programs, this analysis highlights the extent to which utilities fulfill their expressed environmental beliefs.
+- Water Policy and Capital Investment Plans (CIPs): This research arm focuses on the social and environmental values embedded in water utilities CIPs to investigate the environmental moral convergence or divergence of water operators. Compared to the water utility’s mission and other programs, this analysis highlights the extent to which utilities fulfill their expressed environmental beliefs.
 
 ## Team
 
 Lead by Research Faculty, Kayleigh Ward, Cooperative Institute for Research in Environmental Sciences, Environmental Data Science Innovation & Inclusion Lab at the University of Colorado Boulder
 
-– Lauren Gleason, Graduate Student, University of Colorado Boulder
-– Amanda Rampy, Undergraduate Student, Northeastern University
-– Sabrina Krista, Undergraduate Student, Northeastern University
-– Romi Manela, Undergraduate Student, Northeastern University
-– Anika Deodhar, Undergraduate Student, Northeastern University
-– Emina Hurtic, Undergraduate Student, Northeastern University
+- Lauren Gleason, Graduate Student, University of Colorado Boulder
+- Amanda Rampy, Undergraduate Student, Northeastern University
+- Sabrina Krista, Undergraduate Student, Northeastern University
+- Romi Manela, Undergraduate Student, Northeastern University
+- Anika Deodhar, Undergraduate Student, Northeastern University
+- Emina Hurtic, Undergraduate Student, Northeastern University
 
 ## Publications and Editorials
 
