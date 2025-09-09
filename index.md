@@ -1,6 +1,6 @@
 # Kayleigh Ward
 
-![Me in Japan](img/Screenshot 2024-09-04 122422.png) 
+![Me in Japan](img/kw_profile.png) 
 
 Welcome! I am Kayleigh Ward, an environmental sociologist, community engaged researcher, and public health advocate. As a community engagement practitioner, I use my research to improve the well-being of the communities through a variety of community-vetted interventions. This includes meeting the needs of local partners and residents through projects that center local knowledge to create community-specified and context-specific solutions. 
 
