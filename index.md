@@ -1,4 +1,3 @@
-# Kayleigh Ward
 
 ![Me in Japan](img/kw_profile.png) 
 
