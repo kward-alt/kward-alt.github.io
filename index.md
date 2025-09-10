@@ -5,13 +5,13 @@ Welcome! I am Kayleigh Ward, an environmental sociologist, community engaged res
 
 I am research faculty within the Environmental Science Innovation and Impact Lab at the University of Colorado Boulder, and a lecturer with the Department of Public Health and Health Sciences at Northeastern University. I am a environmental sociologist, public health advocate and policy scholar who investigates how public water utilities’ values, governance, and policy designs shape water affordability, water poverty and environmental justice in the United States. In broader contexts, I focuse on disparate burdens and impacts, by highlighting how environmental health of both urban and rural populations suffer from poor social and environmental policy. Across these difference issues, I use actionable, public-facing evidence to translate findings into practical recommendations to improve equity, reduce water poverty and support just, sustainable infrastructure in urban and rural communities. 
 
+[Personal Website](https://kayleighward.com/)
+
 As a fun fact, I did many years of disaster work in Japan, in a community called Minamisanriku. See a map of Minamisanriku and their fishing boundaries below! I frequently still give talks on small scale fisheries. 
 
 ### Minamisanriku
 
 <embed type="text/html" src="img/msr.html" width="600" height="600">
-
-[Personal Website](https://kayleighward.com/)
 
 ## Certifications
 * MSU onGEO Professional GIS certificate (Department of Geography, Environment, and Spatial Sciences)
