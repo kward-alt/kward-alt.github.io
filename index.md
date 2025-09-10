@@ -11,7 +11,6 @@ As a fun fact, I did many years of disaster work in Japan, in a community called
 
 <embed type="text/html" src="img/msr.html" width="600" height="600">
 
-
 [Personal Website](https://kayleighward.com/)
 
 ## Certifications
