@@ -9,6 +9,12 @@ I am research faculty within the Environmental Science Innovation and Impact Lab
 
 As a fun fact, I did many years of disaster work in Japan, in a community called Minamisanriku. See a map of Minamisanriku and their fishing boundaries below! I frequently still give talks on small scale fisheries. 
 
+## EDS Portfolio
+
+### Climate Change in Ramona, CA
+
+
+
 ### Minamisanriku
 
 <embed type="text/html" src="img/msr.html" width="600" height="600">
