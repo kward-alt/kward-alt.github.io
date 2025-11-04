@@ -11,13 +11,21 @@ As a fun fact, I did many years of disaster work in Japan, in a community called
 
 ## EDS Portfolio
 
-### Climate Change in Ramona, CA
+### Climate Change in Boulder, CO
 
+<embed type="text/html" src="img/annual_temp_trend.png" width="600" height="600">
+
+#### Annual Average Temperatures Show a Gradual Warming Trend? Take a second look!
+The fitted trend line reveals a small but consistent increase in average annual temperature over time, with a slope of 0.0326 °F per year. That seems like a small increase however, if we look across the 100 years or so, we do see a significant increase in temperature. We also see year to year variability, especially in the 1930s, 1940s and the late 1990s. The R² value (0.0841) of the OLS regression also indicates that there is variability. However, just because tempatures have been fluxuating does not mean it is not increasing overall.
+
+For example, Let \(\Delta T_{F}\) be the change in temperature in degrees Fahrenheit. The given slope is \(0.0326\) °F per year. The change in temperature is calculated by multiplying the slope by the number of years.\(\Delta T_{F}=\text{slope}\times T\). For Boulder, CO we have temperature data from 1893 to 2023 or 130 years. If we take the slope of 0.0326 °F and multiply it by 130 we get a total temperature change of 4.2 °F! Suddenly that gradual trend line looks more serious. It is important to keep in mind that we only have temperature data from the last 130 years. If we had larger data modeled back through time we would see a much sharper increase (like with global averages).
 
 
 ### Minamisanriku
 
 <embed type="text/html" src="img/msr.html" width="600" height="600">
+
+The above image shows the land and sea boundaries of Minamisanriku, Miyagi, Japan where I did much of my graduate school fieldwork. The community is very rural with less than 10,000 people. The community mostly relies on foresty, agriculture and aquaculture for their income. 
 
 ## Certifications
 * MSU onGEO Professional GIS certificate (Department of Geography, Environment, and Spatial Sciences)
