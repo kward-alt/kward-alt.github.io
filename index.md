@@ -23,6 +23,7 @@ If you would like to learn more about the American Woodcock, I highly recommend 
 If you have never heard what a male Timberdoodle's call sounds like, hear a recording of their PEENT below: 
 <iframe src="https://macaulaylibrary.org/asset/96879691/embed" height="430" width="640" frameborder="0" allowfullscreen></iframe>
 
+
 See the famous Timberdoodle strut below: 
 <iframe src="https://macaulaylibrary.org/asset/193053781/embed" height="510" width="640" frameborder="0" allowfullscreen></iframe>
 
@@ -30,7 +31,7 @@ See the famous Timberdoodle strut below:
 As mentioned before Timberdoodles almost never cross over the "middle" of the United States. This is one of things I lament about living in Colorado, because it is impossible to see these bird's flight displays here. However, when they do somewhat cross the center line of the US, this happens during migration. They have two key migration periods. In the spring (March-May) they can move up the east coast into Canada and skim across Northern US states like Minnesota and Wisconsin. In the winter (September-November) they move back down south, but always staying to the eastern half of the United States. 
 
 ##### Think! 
-Knowing this new information, I invite you to go back to the ebird link from earlier and look at the range map of sightings. Do you notice anything odd? That's right, we have Timberdoodle sightings where they shouldn't be! Most of these "sightings" are misidentifications, especially in the Southwest. How can we be sure these sightings are a mistake by too-enthusiatic birders? We can look at American Woodcocks that have been tracked by ebird. Fun fact, ebird is managed by the Cornell Lab of Ornithology. While the original link I gave you to explore links to the more public-friend ebird page for American Woodcocks, going forward we will need to review [Cornell Labs full report](https://birdsoftheworld.org/bow/species/amewoo/cur/introduction) on our favorite bird. 
+Knowing this new information, I invite you to go back to the ebird link from earlier and look at the range map of sightings. Do you notice anything odd? That's right, we have Timberdoodle sightings where they shouldn't be! Most of these "sightings" are misidentifications, especially in the Southwest. How can we be sure these sightings are a mistake by too-enthusiatic birders? We can look at American Woodcocks that have been tracked by Cornell Lab. ebird is managed by the Cornell Lab of Ornithology. While the original link I gave you to explore links to the more public-friendly ebird page for American Woodcocks, going forward we will need to review [Cornell Labs full report](https://birdsoftheworld.org/bow/species/amewoo/cur/introduction) on our favorite bird. 
 
 #### Comparing what we know about migration
 While I knew the lives of Timberdoodles from my birder co-worker (the amazing Dr. Kimberley Garrett!), here we can see more clearly that the migration paths of these birds do not match up with the range map of sightings on ebird. Let's compare them side by side (or top to bottom depending on your screen size). 
