@@ -30,7 +30,7 @@ See the famous Timberdoodle strut below:
 #### Where do Timberdoodles go? 
 As mentioned before Timberdoodles almost never cross over the "middle" of the United States. This is one of things I lament about living in Colorado, because it is impossible to see these bird's flight displays here. However, when they do somewhat cross the center line of the US, this happens during migration. They have two key migration periods. In the spring (March-May) they can move up the east coast into Canada and skim across Northern US states like Minnesota and Wisconsin. In the winter (September-November) they move back down south, but always staying to the eastern half of the United States. 
 
-##### Think! 
+##### Think! Think! Think!
 Knowing this new information, I invite you to go back to the ebird link from earlier and look at the range map of sightings. Do you notice anything odd? That's right, we have Timberdoodle sightings where they shouldn't be! Most of these "sightings" are misidentifications, especially in the Southwest. How can we be sure these sightings are a mistake by too-enthusiatic birders? We can look at American Woodcocks that have been tracked by Cornell Lab. ebird is managed by the Cornell Lab of Ornithology. While the original link I gave you to explore links to the more public-friendly ebird page for American Woodcocks, going forward we will need to review [Cornell Labs full report](https://birdsoftheworld.org/bow/species/amewoo/cur/introduction) on our favorite bird. 
 
 #### Comparing what we know about migration
@@ -56,8 +56,13 @@ We will use occurence data from 2022 to visualize migration patterns from Januar
 
 <embed type="text/html" src="img/migration.html" width="600" height="600">
 
-#### Migration wrap-up
+##### Note
+You may notice when you scroll your mouse over the map that you get a normalized occurence value (which is also what the legend of this map is referencing). Normalization is essential to letting us compae data from different samples or studies that may have varying sampling protocols or biases. This is because even though GBIF has many required vetting standards for what can and cannot be recorded as an "occurence," some occurences are still more accurate than others. By normalizing we can compare the data from different samples or studies, or in this case, occurences of differing "quality." 
 
+For our interactive map above this just means that in January-March we see a greater density of Timberdoodles along the east coast and through Appalachia (very light blue v. very dark blue). If you spend some time looking at values you will see that we have some normalized occurence values of 0.2 compared to 0.1 or even smaller. In this case an area with an value of 0.2 has twice the relative occurence (or traces or abundence) of American Woodcocks compared to areas with a value of 0.1.
+
+
+#### Migration wrap-up
 So what have we learned about Timberdoodles and their movements? First, if anyone tells you they saw one in California you can tell them they are mistaken. Second, it is important to compare a variety of sources when trying to understand any phenomenon. Looking across our three sources, we see that the GBIF plotted map and the Cornell Labs map line up pretty nicely. We can also see that spring and winter migration pattern discussed earlier where American Woodcocks can be sighted more north in the spring (see the March and April months in the map above), compared to the winter (see November in the map above). 
 
 
