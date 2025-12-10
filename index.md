@@ -34,14 +34,14 @@ Ramona is a rural community located in the backcountry of San Diego County. The 
 
 After the Gold Rush, Ramona remained a quiet agricultural community. By the early 1900s, it earned national recognition as the “Turkey Capital of the World,” and ranching of poultry and cattle supported the local economy. In recent decades, zoning changes and population shifts have reduced agricultural activity. Despite these changes, Ramona continues to maintain a strong rural and community-oriented identity.
 
-*Citations:* (Shipek, 1986; Pourade, 1965).
+*Citations:* (Shipek, 1988; Pourade, 1965).
 
 #### The Ramona Landscape, Geography, and Topography
 Known as the *Valley of the Sun*, Ramona experiences hot summers, mild winters, and significant inland temperature variability. The town lies within a large valley surrounded by mountains ranging from ~1,000 to over 2,300 feet in elevation and is partially bordered by the Cuyamaca Mountains and the Cleveland National Forest.
 
 Ramona is situated within the Southern California chaparral biome, dominated by drought-tolerant, fire-adapted shrubs. Shrubland is especially prominent along the rugged hills that border town, while oak stands occupy ravines and river corridors. The region is also characterized by rocky terrain, with Highways 67 and 78 carved directly into steep mountain faces.
 
-*Citations:* (Keeley and Fotheringham, 2004).
+*Citations:* (Keeley et al., 2004).
 
 #### The 2000s “Ring of Fire”
 Prior to the 2000s, Ramona had limited exposure to high-intensity wildfire events. This shifted dramatically in the early twenty-first century.
@@ -57,7 +57,7 @@ Prior to the 2000s, Ramona had limited exposure to high-intensity wildfire event
 
 Together, these fires created a complete “ring” around Ramona. Residents frequently describe the 2000s as a defining decade shaped by fire and note that the landscape has not fully recovered—even nearly twenty years later.
 
-*Citations:* CAL FIRE (Cedar Fire 2003; Witch Creek 2007); fire history of Southern California (Keeley & Zedler, 2009).
+*Citations:* CAL FIRE (Cedar Fire 2003; Witch Creek 2007).
 
 #### Investigating the Ring of Fire
 Residents are correct that wildfire dramatically alters the landscape, but quantifying these changes requires spatial and temporal analysis.  
@@ -110,14 +110,14 @@ Test through:
   *(NASA LP DAAC, 2023).*
 
 #### References
-- CAL FIRE. (2003). *Cedar Fire Incident Report.*  
-- CAL FIRE. (2007). *Witch Creek Fire Incident Report.*  
-- Keeley, J. E., & Fotheringham, C. (2004). *Lessons from the 2003 wildfires in southern California*  
+- CAL FIRE. (2003). Cedar Fire Incident Report.
+- CAL FIRE. (2007). Witch Creek Fire Incident Report. 
+- Keeley, J. E., Fotheringham, C., & Mortiz, A., M. (2004). Lessons from the 2003 wildfires in southern California. https://moritzfirelab.org/wp-content/uploads/2016/01/keeley_etal_2004-2.pdf 
 - MRLC/USGS. (2020). *RCMAP Shrub Cover Time Series.*  
 - NASA LP DAAC. (2023). *Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI.*  
 - NOAA National Centers for Environmental Information. (2025). *Climate Data Record for Ramona, CA.*  
-- Pourade, R. (1965). *The History of San Diego: Gold Rush Era.* San Diego Historical Society.  
-- Shipek, F. (1986). *PUSHED INTO THE ROCKS, Southern Indian Land Tenure, 1769-1986.*
+- Pourade, R. (1965). *Gold in the Sun: The History of San Diego.* San Diego Historical Society. Madrona Pub.  
+- Shipek, F. (1988). *PUSHED INTO THE ROCKS, Southern Indian Land Tenure, 1769-1986.* University of Nebraska Press. 
 
 ### Study Area
 Before we can get to the fun analyses, I had to create a variety of boundaries for this project including those for Ramona, both fires, as well as buffer around these fires. Below you can see how these ended up plotting before we move onto the land cover changes, NDVI calculations and the Ramona climate data. 
