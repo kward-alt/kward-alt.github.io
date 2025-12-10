@@ -164,6 +164,7 @@ Here we see that there was a lot of shrub gains (orange) on the east side of the
 
 To ensure that what we see is statistically significant we can calculate cohen's d which helps measure the effect size. Cohen's d quantifies the standardized difference between two group means, essentially telling you how many standard deviations separate the average of two groups. Fortunately, we are using means here! Cohen's d ranges from 0 to 2. It helps determine the practical significance of findings, indicating whether a difference is small (around 0.2), medium (around 0.5), or large (around 0.8) or more. For the Cedar fire the cohen's d was 0.8! So a large difference (we will come back to this).
 
+#### Witch fire shrub cover changes between 2000 and 2020
 ![Witch shrub with buffer](img/witch_shrub_buffer_percent_maps.png)
 With the Witch fire we do not see a extreme east-west divide in terms of recovery and we know this beyond just looking at the shrub cover changes in the plotted maps above. Just like the Cedar fire if we look at the shrub difference between 2000 and 2020, we get the following plot: 
 
