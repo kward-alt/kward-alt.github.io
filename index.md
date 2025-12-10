@@ -290,7 +290,7 @@ a.	**What this allows us to do:** given the effects of climate change, NDVI may 
 #### Tracking precipitation
 Since NDVI data is not accessible, lets consider the precipitation question. Unfortunately, NOAA does not have a station to record precipitation at the center of the reservation. However, we can use a close zip code (Laveen, AZ 85339 (Location ID: ZIP:85339). Laveen overlaps with the western half of the Gila boundary, and can still tell us whether the precipitation into the Gila basin in this area change a lot over this time period.  
 
-The specific station we are using is USC00025270. The precipitation csv provides daily totals of rainfall for the dates I called for (Jan 1, 2001 to December 31, 2022). Below I have created a trend graph of the average yearly precipitation, a trend graph of the total annual precipitation by year, and then calculations for the number of “rainy” days (precip  > 0.0 inches) and “insanity” of rain on rainy days. 
+The specific station we are using is USC00025270. The precipitation csv provides daily totals of rainfall for the dates I called for (Jan 1, 2001 to December 31, 2022). Below I have created a trend graph of the annual mean precipitation, a trend graph of the total annual precipitation, and then calculations for the number of “rainy” days (precip  > 0.0 inches) and “insanity” of rain on rainy days. 
 
 ![mean precip](img/laveen_annual_mean_precip_trend.png)
 ![annual total precip](img/laveen_total_annual_precip_trend.png)
