@@ -179,12 +179,14 @@ Although shrub cover dropped to near-zero across the entire Cedar Fire footprint
 
 ### NDVI Greenness Recovery (AppEEARS MODIS Data)
 
-To capture vegetation health, I extracted **April–June NDVI** for pre-fire, post-fire, and long-term recovery years. Unlike with the shrubs we see a much more complex story with the vegetation health. See the Cedar and Witch NDVI maps below for our interested years. 
+To capture vegetation health, I extracted **April–June NDVI** for pre-fire, post-fire, and long-term recovery years. Unlike with the shrubs we see a much more complex story with the vegetation health. See the Cedar and Witch NDVI maps below for our interested years. Remember that NDVI scales between [0,1]. Unlike with the shrub cover maps where we can exclude non-shrub areas, for NDVI even urban areas have some level of reflectance. You will see that the original urban areas in the buffer zone for these NDVI maps essentially merge with the surrounding area. Just keep in mind that we do have urban features in the buffer zone. 
 
+#### Cedar fire NDVI changes between 2000 and 2020
 ![Cedar NDVI](img/cedar_ndvi_buffer_maps.png)
 #### NDVI and the Cedar Fire
 Unlike our shrub cover maps which showed clear differences, here we see that the NDVI value for April-June changes a lot between our selected years. While shrub coverage helped us see where shrub is, these maps indicate tha the shrub is under similar duress both during and outside the fire event. Likely the shrub is responding to the drought conditions that plague Southern California. As a result, our NDVI data doesn't actually help us understand change pre and post fire, but issues with percipitation. We would need to also plot precip data which is beyond the scope of this project to see if the low NDVI years correlate with low rain fall (e.g. years 2005, 2010 and 2020). Also note that because the peak time for greening is April through June, our 2003 map does not show the effects of the fire. 
 
+#### Witch fire NDVI changes between 2000 and 2020
 ![Witch NDVI](img/witch_ndvi_buffer_maps.png)
 ### NDVI and the Witch Fire
 We see similar patterns here like we did with the Cedar fire. However, unlike with the Cedar maps, in 2007 the shrub was already distressed prior to the Witch fire. Interestingly we see the same distrubance in 2005, 2010 and 2020. More to investigate in the future!
