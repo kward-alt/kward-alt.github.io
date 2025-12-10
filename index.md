@@ -233,6 +233,14 @@ These patterns have important implications for:
 - **Ecosystem stress:** vegetation faces higher evaporative demand (meaning the vegetation distress we see in the lower NDVI map years for Cedar and Witch likely correlate with increasing temperatures and rare rainfall. We would need to plot precipitation to be sure but that is outside the scope of this project.)  
 
 ---
+### In the end what have we learned? 
+Revisting my questions from earlier we now know that:
+1. **Climate Change Assumption** --> Ramona is indeed warming,
+2. **Vegetation in Ramona has not fully recovered from the 2003 Cedar Fire** but recovery seems uniform for the 2007 Witch Fire,
+3. There are indeed **Shrubland differences within vs. outside fire perimeters** but for our NDVI analyses,
+4. **We do not see clear differences within and outside the fire perimeters** for both fires.  
+
+For the future we would need to plot other precipitation data to understand what is going on with NDVI.
 
 ### Tools & Methods
 
