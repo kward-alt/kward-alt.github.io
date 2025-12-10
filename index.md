@@ -155,6 +155,7 @@ Using RCMAP’s time-series shrub cover product, I calculated:
 - Shrub cover sharply declines in the years immediately following both fires, with recovery taking **well over a decade or more**.  
 - East–west comparisons reveal strong spatial heterogeneity for the Cedar fire but not so much for the Witch fire.   
 
+#### Cedar fire shrub cover changes between 2000 and 2020
 ![Cedar shrub with buffer](img/cedar_shrub_buffer_percent_maps.png)
 You will notice in the plotted shrub cover above, which ranges from 0-100 that there seems to be a different recover pattern emerging between the west and east sides of the burn area. In the buffer area (0-4km) we also see some white space which is just urban areas (so no shrub values). Between the plotted years, looking at 2000 and 2020, the post-burn area still has not recovered to pre-burn levels. We can prove this with with a difference map, which you can see below. 
 
