@@ -18,11 +18,11 @@ I have been building a geospatial analysis of long-term vegetation recovery in t
 
 You can follow the methods for each piece of this project by clicking on the following html files for each notebook that was created to code this. 
 
-- [Overview notebook html](img/00_00_project_overview.html)
-- [Ramona climate change notebook html](img/01_00_ramona_climate_change.html)
-- [Ramona fire perimeters notebook html](img/01_ramona_fire_perims.html)
-- Landcover notebooks [1](img/01_load_landcover_data_2024.html), [2](img/02_cedar_fire_landcover_change.html), [3](img/03_witch_fire_landcover_change.html) and [4](img/04_inside_vs_outside_comparison.html) htmls (click each number for each notebook)
-- [NDVI recovery notebook html](img/01_ndvi_recovery_timeseries.html) 
+1. [Overview notebook html](img/00_00_project_overview.html)
+2. [Ramona climate change notebook html](img/01_00_ramona_climate_change.html)
+3. [Ramona fire perimeters notebook html](img/01_ramona_fire_perims.html)
+4. Landcover notebooks [1](img/01_load_landcover_data_2024.html), [2](img/02_cedar_fire_landcover_change.html), [3](img/03_witch_fire_landcover_change.html) and [4](img/04_inside_vs_outside_comparison.html) htmls (click each number for each notebook)
+5. [NDVI recovery notebook html](img/01_ndvi_recovery_timeseries.html) 
 
 You can also find the repository for this project at https://github.com/kward-alt/ramona-fire-recovery (please pardon my dust as that repository is fully built out with its associated readme, yml, and other files for replication).
 
