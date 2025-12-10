@@ -261,12 +261,12 @@ Learn more about the Gila River Indian Community [here](https://www.gilariver.or
 You can check out the code for the precipitation analysis ![here](img/precipitation-01-wrangle-and-plot.html)
 
 #### Mean July NDVI Inside vs. Outside Gila (2001-2022)
-![Gila NDVI inside and outside](img/july_ndvi_inside_outside.html) 
+<embed type="text/html" src="img/july_ndvi_inside_outside.html" width="600" height="600">
 The first thing to notice is that for all the NDVI mean values, regardless of if they are inside or outside Gila, are positive in July. This indicates that peak-season vegetation greenness is reliably present across the region. However, the magnitude of July NDVI differs substantially between the two areas.
 Second, across the entire 2001–2022 period, the outside Gila region displays higher mean July NDVI than the inside Gila region. The outside area generally ranges from approximately 0.21 to 0.26, showing moderate but stable July greenness. In contrast, NDVI values inside Gila remain consistently below even the lowest values observed outside the boundary (with the only exception being 2005 where inside Gila has a mean July NVDI of almost 0.24).
 
 #### Mean July NDVI difference (Gila v. outside, 2001-2022)
-![Gila difference](img/july_ndvi_inside_outside_difference.html)
+<embed type="text/html" src="img/july_ndvi_inside_outside_difference.html" width="600" height="600">
 For each year, every NDVI value is the (Mean July NDVI inside Gila) minus (Mean July NDVI outside Gila). Essentially what this graph lets us answer is within each given year from 2001 to 2022, how much greener was the inside of the Gila boundary to its surroundings? The short answer is that inside Gila was never greener than outside (just like we see in plot 1).
 
 The long answer: You will notice immediately that in comparison to the first plot, this line starts BELOW 0 and never crosses 0, and it is always a negative NDVI value. However, unlike the first plot, this negative NDVI value goes from about -0.05 in 2001 to -0.02 in 2022. So we are getting closer to 0, which means the greenness within the Gila boundary is becoming SIMILARLY green to its surroundings. 
