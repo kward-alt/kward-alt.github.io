@@ -1,17 +1,67 @@
+<div class="hero-section">
+  <img src="img/kw_profile.png" alt="Kayleigh Ward">
 
-![Me in Japan](img/kw_profile.png) 
+  <div>
+    <h1>Kayleigh Ward</h1>
+    <p>
+      Environmental sociologist, community-engaged researcher, and public health advocate.
+    </p>
+    <p>
+      I study water affordability, environmental justice, and how infrastructure and policy shape environmental health outcomes.
+    </p>
+    <p>
+      <a href="https://kayleighward.com/">Personal Website</a> ·
+      <a href="https://github.com/kward-alt">GitHub</a>
+    </p>
+  </div>
+</div>
 
-Welcome! I am Kayleigh Ward, an environmental sociologist, community engaged researcher, and public health advocate. 
+---
 
-I am research faculty within the Environmental Science Innovation and Impact Lab at the University of Colorado Boulder, and a lecturer with the Department of Public Health and Health Sciences at Northeastern University. I am a environmental sociologist, public health advocate and policy scholar who investigates how public water utilities’ values, governance, and policy designs shape water affordability, water poverty and environmental justice in the United States. In broader contexts, I focuse on disparate burdens and impacts, by highlighting how environmental health of both urban and rural populations suffer from poor social and environmental policy. Across these difference issues, I use actionable, public-facing evidence to translate findings into practical recommendations to improve equity, reduce water poverty and support just, sustainable infrastructure in urban and rural communities. 
+## Featured Projects
 
-[Personal Website](https://kayleighward.com/)
+<div class="project-grid">
 
-As a fun fact, I did many years of disaster work in Japan, in a community called Minamisanriku. See a map of Minamisanriku and their fishing boundaries below! I frequently still give talks on small scale fisheries. 
+  <div class="project-card">
+    <h3><a href="#ramona">Ramona Fire Recovery</a></h3>
+    <p>Vegetation recovery, NDVI trends, and fire perimeter analysis in Southern California.</p>
+  </div>
 
+  <div class="project-card">
+    <h3><a href="#gila">Gila River Vegetation Health</a></h3>
+    <p>NDVI trends and water rights impacts on vegetation in Arizona.</p>
+  </div>
+
+  <div class="project-card">
+    <h3><a href="#boulder">Boulder Climate Trends</a></h3>
+    <p>Long-term temperature change analysis using NOAA data.</p>
+  </div>
+  
+  <div class="project-card">
+    <h3><a href="#timberdoodle">Timberdoodles (American Woodcock)</a></h3>
+    <p>Species distribution, migration patterns, and data reliability using GBIF and eBird.</p>
+</div>
+
+  <div class="project-card">
+    <h3><a href="#minamisanriku">Minamisanriku Mapping</a></h3>
+    <p>Fieldwork and land-sea boundary mapping in Japan.</p>
+  </div>
+
+</div>
+
+---
+
+## Research Areas
+
+- Water justice and affordability  
+- Environmental health inequities  
+- Climate and infrastructure policy  
+- Geospatial analysis (GIS + remote sensing)  
+
+---
 # EDS Portfolio
 
-## Ramona Fire Recovery Project  
+## Ramona Fire Recovery Project {#ramona}
 ### Vegetation Change, Fire History, and Climate Trends in Cedar & Witch Fire Landscapes (2000–2024)
 
 I have been building a geospatial analysis of long-term vegetation recovery in the Ramona, CA region, focusing on two major wildfires: the **Cedar Fire (2003)** and the **Witch Fire (2007)**. Using a combination of RCMAP shrub cover data (1998–2024), NASA AppEEARS MODIS NDVI data, and high-resolution fire perimeter and buffer analyses, this project explores how vegetation structure and greenness recover inside fire scars compared to surrounding landscapes.
@@ -253,7 +303,7 @@ All analysis was completed in **VS Code** with a structured notebook workflow
 
 ---
 
-### Vegetation Health on the Gila River
+### Vegetation Health on the Gila River {#gila}
 In 2004, the Akimel O’otham and Tohono O’odham tribes won a water rights settlement in the US Supreme Court. However, despite this historic win for tribal sovereignty, and the protection of important social, cultural and environmental ways, the return of water rights has unfortunately not lead to an improvement in vegetation health. In a previous exercise I explored the mean NDVI differences between the Gila boundary and the areas outside of it during the month of July between 2001-2022. I will recap that below before we explore some other data to see if in fact the Gila river basin is not improving. 
 
 Learn more about the Gila River Indian Community [here](https://www.gilariver.org/) 
@@ -326,7 +376,7 @@ Considering that the gap is narrowing between Gila and outside areas in terms of
 
 ---
 
-### The wonderful world of Timberdoodles (aka American Woodcock)
+### The wonderful world of Timberdoodles (aka American Woodcock) {#timberdoodle}
 ![Adult American Woodcock from ebird](img/American_Woodcock_Adult_Bird.png) 
 
 Some years ago when I was working in Boston a coworker of mine got me into birding. Birding is one of those hobbies that you do not do by half. One of my first sightings was an American Woodcock, also lovingly known as a Timberdoodle. They are also characterized by the males' signature PEENT! call and their undulating strut. There has been a lot of speculation both by ornithologists (bird scientists) and birders as to why Timberdoodles do this. Beyond struting during their displays, some believe that this helps them coax worms out of the soil, while others contend it may be a way to confuse potential predators due to the movement. Regardless it is mesmerizing!
@@ -380,8 +430,7 @@ For our interactive map above this just means that in January-March we see a gre
 #### Migration wrap-up
 So what have we learned about Timberdoodles and their movements? First, if anyone tells you they saw one in California you can tell them they are mistaken. Second, it is important to compare a variety of sources when trying to understand any phenomenon. Looking across our three sources, we see that the GBIF plotted map and the Cornell Labs map line up pretty nicely. We can also see that spring and winter migration pattern discussed earlier where American Woodcocks can be sighted more north in the spring (see the March and April months in the map above), compared to the winter (see November in the map above). 
 
-
-### Climate Change in Boulder, CO
+### Climate Change in Boulder, CO {#boulder}
 
 <embed type="text/html" src="img/annual_temp_trend.png" width="600" height="600">
 
@@ -392,7 +441,7 @@ For example, we can calculate the total temperature change from 1893 to 2023 in 
 
 Want to see the NCEI data used for this graph? You can download daily summaries for the Boulder, CO Station (USC00050848) [here](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00050848/detail).
 
-### Minamisanriku
+### Minamisanriku {#minamisanriku}
 
 <embed type="text/html" src="img/msr.html" width="600" height="600">
 The above image shows the land and sea boundaries of Minamisanriku, Miyagi, Japan where I did much of my graduate school fieldwork. The community is very rural with less than 10,000 people. The community mostly relies on foresty, agriculture and aquaculture for their income. 
