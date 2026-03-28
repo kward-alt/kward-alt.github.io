@@ -25,21 +25,25 @@
   <div class="project-card">
     <h3><a href="#ramona">Ramona Fire Recovery</a></h3>
     <p>Vegetation recovery, NDVI trends, and fire perimeter analysis in Southern California.</p>
+    <p><em>GIS · Remote sensing · NDVI · Fire ecology</em></p>
   </div>
 
   <div class="project-card">
     <h3><a href="#gila">Gila River Vegetation Health</a></h3>
     <p>NDVI trends and water rights impacts on vegetation in Arizona.</p>
+    <p><em>NDVI · Water policy · Environmental justice · Remote sensing</em></p>
   </div>
 
   <div class="project-card">
     <h3><a href="#boulder">Boulder Climate Trends</a></h3>
     <p>Long-term temperature change analysis using NOAA data.</p>
+    <p><em>Climate analysis · NOAA data · Time series · Python</em></p>
   </div>
   
   <div class="project-card">
     <h3><a href="#timberdoodle">Timberdoodles (American Woodcock)</a></h3>
     <p>Species distribution, migration patterns, and data reliability using GBIF and eBird.</p>
+    <p><em>GBIF · Species distribution · Data validation · Visualization</em></p>
 </div>
 
   <div class="project-card">
