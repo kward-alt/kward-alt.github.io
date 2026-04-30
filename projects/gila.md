@@ -1,3 +1,11 @@
+
+---
+layout: default
+title: Gila
+---
+
+[← Back to portfolio](https://kward-alt.github.io/)
+
 ### Vegetation Health on the Gila River {#gila}
 In 2004, the Akimel O’otham and Tohono O’odham tribes won a water rights settlement in the US Supreme Court. However, despite this historic win for tribal sovereignty, and the protection of important social, cultural and environmental ways, the return of water rights has unfortunately not lead to an improvement in vegetation health. In a previous exercise I explored the mean NDVI differences between the Gila boundary and the areas outside of it during the month of July between 2001-2022. I will recap that below before we explore some other data to see if in fact the Gila river basin is not improving. 
 
