@@ -7,7 +7,7 @@ title: Timberdoodle
 [← Back to portfolio](https://kward-alt.github.io/)
 
 ### The wonderful world of Timberdoodles (aka American Woodcock)
-![Adult American Woodcock from ebird](img/American_Woodcock_Adult_Bird.png) 
+![Adult American Woodcock from ebird](/img/American_Woodcock_Adult_Bird.png) 
 
 Some years ago when I was working in Boston a coworker of mine got me into birding. Birding is one of those hobbies that you do not do by half. One of my first sightings was an American Woodcock, also lovingly known as a Timberdoodle. They are also characterized by the males' signature PEENT! call and their undulating strut. There has been a lot of speculation both by ornithologists (bird scientists) and birders as to why Timberdoodles do this. Beyond struting during their displays, some believe that this helps them coax worms out of the soil, while others contend it may be a way to confuse potential predators due to the movement. Regardless it is mesmerizing!
 
@@ -17,7 +17,6 @@ If you would like to learn more about the American Woodcock, I highly recommend 
 
 If you have never heard what a male Timberdoodle's call sounds like, hear a recording of their PEENT below: 
 <iframe src="https://macaulaylibrary.org/asset/96879691/embed" height="430" width="640" frameborder="0" allowfullscreen></iframe>
-
 
 See the famous Timberdoodle strut below: 
 <iframe src="https://macaulaylibrary.org/asset/193053781/embed" height="510" width="640" frameborder="0" allowfullscreen></iframe>
@@ -31,7 +30,7 @@ Knowing this new information, I invite you to go back to the ebird link from ear
 #### Comparing what we know about migration
 While I knew the lives of Timberdoodles from my birder co-worker (the amazing Dr. Kimberley Garrett!), here we can see more clearly that the migration paths of these birds do not match up with the range map of sightings on ebird. Let's compare them side by side (or top to bottom depending on your screen size). 
 
-![Adult American Woodcock migration and non-migration zones](img/Migration_patterns.png) 
+![Adult American Woodcock migration and non-migration zones](/img/Migration_patterns.png) 
 You can view this image full size from [Cornell Labs](https://birdsoftheworld.org/bow/species/amewoo/cur/introduction)
 
 ![Range map of American Woodcock sightings from ebird](img/ebird_range_map.png)
@@ -49,7 +48,7 @@ GBIF provides a uniquely comprehensive and standardized repository of species‐
 
 We will use occurence data from 2022 to visualize migration patterns from January to November. Explore the slider below and see how this migration map compares to the eBird range map and the static migration path map from Cornell Labs. 
 
-<embed type="text/html" src="img/migration.html" width="600" height="600">
+<embed type="text/html" src="/img/migration.html" width="600" height="600">
 
 ##### Note
 You may notice when you scroll your mouse over the map that you get a normalized occurence value (which is also what the legend of this map is referencing). Normalization is essential to letting us compae data from different samples or studies that may have varying sampling protocols or biases. This is because even though GBIF has many required vetting standards for what can and cannot be recorded as an "occurence," some occurences are still more accurate than others. By normalizing we can compare the data from different samples or studies, or in this case, occurences of differing "quality." 
