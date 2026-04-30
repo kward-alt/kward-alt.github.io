@@ -8,7 +8,7 @@ title: Climate Change in Boulder, CO
 
 ### Climate Change in Boulder, CO
 
-<embed type="text/html" src="img/annual_temp_trend.png" width="600" height="600">
+<embed type="text/html" src="/img/annual_temp_trend.png" width="600" height="600">
 
 #### Annual Average Temperatures Show a Gradual Warming Trend? Take a second look!
 The fitted trend line reveals a small but consistent increase in average annual temperature over time, with a slope of 0.0326 °F per year. That seems like a small increase however, if we look across the 100 years or so, we do see a significant increase in temperature. We also see year to year variability, especially in the 1930s, 1940s and the late 1990s. The R² value (0.0841) of the OLS regression also indicates that there is variability. However, just because temperatures have been fluxuating does not mean we should ignore the gradual increase in temperature the graph shows.
