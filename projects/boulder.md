@@ -1,4 +1,12 @@
-### Climate Change in Boulder, CO {#boulder}
+
+---
+layout: default
+title: Climate Change in Boulder, CO
+---
+
+[← Back to portfolio](https://kward-alt.github.io/)
+
+### Climate Change in Boulder, CO
 
 <embed type="text/html" src="img/annual_temp_trend.png" width="600" height="600">
 
