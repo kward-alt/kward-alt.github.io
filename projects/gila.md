@@ -11,15 +11,15 @@ In 2004, the Akimel O’otham and Tohono O’odham tribes won a water rights set
 
 Learn more about the Gila River Indian Community [here](https://www.gilariver.org/) 
 
-You can check out the code for the precipitation analysis [here](img/precipitation-01-wrangle-and-plot.html)
+You can check out the code for the precipitation analysis [here](/img/precipitation-01-wrangle-and-plot.html)
 
 #### Mean July NDVI Inside vs. Outside Gila (2001-2022)
-<embed type="text/html" src="img/july_ndvi_inside_outside.html" width="400" height="400">
+<embed type="text/html" src="/img/july_ndvi_inside_outside.html" width="400" height="400">
 The first thing to notice is that for all the NDVI mean values, regardless of if they are inside or outside Gila, are positive in July. This indicates that peak-season vegetation greenness is reliably present across the region. However, the magnitude of July NDVI differs substantially between the two areas.
 Second, across the entire 2001–2022 period, the outside Gila region displays higher mean July NDVI than the inside Gila region. The outside area generally ranges from approximately 0.21 to 0.26, showing moderate but stable July greenness. In contrast, NDVI values inside Gila remain consistently below even the lowest values observed outside the boundary (with the only exception being 2005 where inside Gila has a mean July NVDI of almost 0.24).
 
 #### Mean July NDVI difference (Gila v. outside, 2001-2022)
-<embed type="text/html" src="img/july_ndvi_inside_outside_difference.html" width="400" height="400">
+<embed type="text/html" src="/img/july_ndvi_inside_outside_difference.html" width="400" height="400">
 For each year, every NDVI value is the (Mean July NDVI inside Gila) minus (Mean July NDVI outside Gila). Essentially what this graph lets us answer is within each given year from 2001 to 2022, how much greener was the inside of the Gila boundary to its surroundings? The short answer is that inside Gila was never greener than outside (just like we see in plot 1).
 
 The long answer: You will notice immediately that in comparison to the first plot, this line starts BELOW 0 and never crosses 0, and it is always a negative NDVI value. However, unlike the first plot, this negative NDVI value goes from about -0.05 in 2001 to -0.02 in 2022. So we are getting closer to 0, which means the greenness within the Gila boundary is becoming SIMILARLY green to its surroundings. 
@@ -45,10 +45,10 @@ Since NDVI data is not accessible, lets consider the precipitation question. Unf
 
 The specific station we are using is USC00025270. The precipitation csv provides daily totals of rainfall for the dates I called for (Jan 1, 2001 to December 31, 2022). Below I have created a trend graph of the annual mean precipitation, a trend graph of the total annual precipitation, and then calculations for the number of “rainy” days (precip  > 0.0 inches) and “insanity” of rain on rainy days. 
 
-![mean precip](img/laveen_annual_mean_precip_trend.png)
-![annual total precip](img/laveen_total_annual_precip_trend.png)
-![rainy days](img/laveen_rainy_days_per_year.png)
-![insensity](img/laveen_rain_intensity_per_rainy_day.png)
+![mean precip](/img/laveen_annual_mean_precip_trend.png)
+![annual total precip](/img/laveen_total_annual_precip_trend.png)
+![rainy days](/img/laveen_rainy_days_per_year.png)
+![insensity](/img/laveen_rain_intensity_per_rainy_day.png)
 
 ### Interpretation of Rainy-Day Frequency and Rainfall Intensity (Laveen, AZ: 2001–2022)
 The precipitation record for Laveen (which abuts and overlaps the Gila boundary) from 2001–2022 reveals an important pattern: the frequency of rainy days has declined, while the intensity of rainfall on days that do receive precipitation has remained variable and occasionally increased, though without a strong upward trend. These two shifts together help explain why the mean daily precipitation shows a very small positive slope, while total annual precipitation trends downward more strongly.
