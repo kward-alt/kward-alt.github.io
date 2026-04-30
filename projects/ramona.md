@@ -14,11 +14,11 @@ I have been building a geospatial analysis of long-term vegetation recovery in t
 
 You can follow the methods for each piece of this project by clicking on the following html files for each notebook that was created to code this. 
 
-1. [Overview notebook html](img/00_00_project_overview.html)
-2. [Ramona climate change notebook html](img/01_00_ramona_climate_change.html)
-3. [Ramona fire perimeters notebook html](img/01_ramona_fire_perims.html)
-4. Landcover notebooks [1](img/01_load_landcover_data_2024.html), [2](img/02_cedar_fire_landcover_change.html), [3](img/03_witch_fire_landcover_change.html) and [4](img/04_inside_vs_outside_comparison.html) htmls (click each number for each notebook)
-5. [NDVI recovery notebook html](img/01_ndvi_recovery_timeseries.html) 
+1. [Overview notebook html](/img/00_00_project_overview.html)
+2. [Ramona climate change notebook html](/img/01_00_ramona_climate_change.html)
+3. [Ramona fire perimeters notebook html](/img/01_ramona_fire_perims.html)
+4. Landcover notebooks [1](/img/01_load_landcover_data_2024.html), [2](/img/02_cedar_fire_landcover_change.html), [3](/img/03_witch_fire_landcover_change.html) and [4](/img/04_inside_vs_outside_comparison.html) htmls (click each number for each notebook)
+5. [NDVI recovery notebook html](/img/01_ndvi_recovery_timeseries.html) 
 
 You can also find the repository for this project at https://github.com/kward-alt/ramona-fire-recovery (please pardon my dust as that repository is fully built out with its associated readme, yml, and other files for replication).
 
@@ -120,7 +120,7 @@ Before we can get to the fun analyses, I had to create a variety of boundaries f
 
 The analysis is centered on the **Ramona Census Designated Place (CDP)** boundary in San Diego County. I constructed a consistent spatial data pipeline using `geopandas`, `rasterio`, and `xarray` in **EPSG:3310 (California Albers)** to ensure all rasters and vector layers align correctly. For all boundary axes, these will be northing (meters) for the y axis and easting (meters) for the x axis. 
 
-![Ramona CDP boundary](img/ramona_CDP_boundary.png)
+![Ramona CDP boundary](/img/ramona_CDP_boundary.png)
 
 ### Fire Perimeters & Buffer Zones
 
@@ -133,7 +133,7 @@ To evaluate differential recovery, I created inside-vs-outside comparisons using
 
 These geometries were used to clip both shrub cover and NDVI data while preserving consistent CRS and extent. Here you can see how the fires overlap with Ramona, creating a "ring of fire."
 
-![Ramona and fire perimeters](img/ramona_CDP_with_Cedar_Witch_boundaries.png)
+![Ramona and fire perimeters](/img/ramona_CDP_with_Cedar_Witch_boundaries.png)
 
 ---
 Now we can see the fun analyses! Lets check out the shrub cover change, NDVI change and climate in Ramona!
@@ -152,19 +152,19 @@ Using RCMAP’s time-series shrub cover product, I calculated:
 - East–west comparisons reveal strong spatial heterogeneity for the Cedar fire but not so much for the Witch fire.   
 
 #### Cedar fire shrub cover changes between 2000 and 2020
-![Cedar shrub with buffer](img/cedar_shrub_buffer_percent_maps.png)
+![Cedar shrub with buffer](/img/cedar_shrub_buffer_percent_maps.png)
 You will notice in the plotted shrub cover above, which ranges from 0-100 that there seems to be a different recover pattern emerging between the west and east sides of the burn area. In the buffer area (0-4km) we also see some white space which is just urban areas (so no shrub values). Between the plotted years, looking at 2000 and 2020, the post-burn area still has not recovered to pre-burn levels. We can prove this with with a difference map, which you can see below. 
 
-![Cedar shrub difference](img/cedar_shrub_change_2020_minus_2000.png)
+![Cedar shrub difference](/img/cedar_shrub_change_2020_minus_2000.png)
 Here we see that there was a lot of shrub gains (orange) on the east side of the burn area, but we have had distinct shrub loss in the western part of the burn area. These differences make sense since the mean shrub change over this period of time was a minimum of **negative/loss** 82 percent and **positive/gain** 92 percent.
 
 To ensure that what we see is statistically significant we can calculate cohen's d which helps measure the effect size. Cohen's d quantifies the standardized difference between two group means, essentially telling you how many standard deviations separate the average of two groups. Fortunately, we are using means here! Cohen's d ranges from 0 to 2. It helps determine the practical significance of findings, indicating whether a difference is small (around 0.2), medium (around 0.5), or large (around 0.8) or more. For the Cedar fire the cohen's d was 0.8! So a large difference (we will come back to this).
 
 #### Witch fire shrub cover changes between 2000 and 2020
-![Witch shrub with buffer](img/witch_shrub_buffer_percent_maps.png)
+![Witch shrub with buffer](/img/witch_shrub_buffer_percent_maps.png)
 With the Witch fire we do not see a extreme east-west divide in terms of recovery and we know this beyond just looking at the shrub cover changes in the plotted maps above. Just like the Cedar fire if we look at the shrub difference between 2000 and 2020, we get the following plot: 
 
-![Witch shrub difference](img/witch_shrub_change_2020_minus_2000.png)
+![Witch shrub difference](/img/witch_shrub_change_2020_minus_2000.png)
 Here we see that the map is much more uniform in terms of shrub change in this 20 years period. However, we can check if this is the case by calculating cohen's d for the Witch fire, which was only 0.2, meaning there are no singificant differences in recovery between the east and west burn areas. If you want to learn more about how we differentiate the east and west sides of these fires, check out the landcover notebooks linked at the top of this post.
 
 #### So what does the shrub landcover tell us? 
@@ -178,12 +178,12 @@ Although shrub cover dropped to near-zero across the entire Cedar Fire footprint
 To capture vegetation health, I extracted **April–June NDVI** for pre-fire, post-fire, and long-term recovery years. Unlike with the shrubs we see a much more complex story with the vegetation health. See the Cedar and Witch NDVI maps below for our interested years. Remember that NDVI scales between [0,1]. Unlike with the shrub cover maps where we can exclude non-shrub areas, for NDVI even urban areas have some level of reflectance. You will see that the original urban areas in the buffer zone for these NDVI maps essentially merge with the surrounding area. Just keep in mind that we do have urban features in the buffer zone. 
 
 #### Cedar fire NDVI changes between 2000 and 2020
-![Cedar NDVI](img/cedar_ndvi_buffer_maps.png)
+![Cedar NDVI](/img/cedar_ndvi_buffer_maps.png)
 #### NDVI and the Cedar Fire
 Unlike our shrub cover maps which showed clear differences, here we see that the NDVI value for April-June changes a lot between our selected years. While shrub coverage helped us see where shrub is, these maps indicate tha the shrub is under similar duress both during and outside the fire event. Likely the shrub is responding to the drought conditions that plague Southern California. As a result, our NDVI data doesn't actually help us understand change pre and post fire, but issues with percipitation. We would need to also plot precip data which is beyond the scope of this project to see if the low NDVI years correlate with low rain fall (e.g. years 2005, 2010 and 2020). Also note that because the peak time for greening is April through June, our 2003 map does not show the effects of the fire. 
 
 #### Witch fire NDVI changes between 2000 and 2020
-![Witch NDVI](img/witch_ndvi_buffer_maps.png)
+![Witch NDVI](/img/witch_ndvi_buffer_maps.png)
 ### NDVI and the Witch Fire
 We see similar patterns here like we did with the Cedar fire. However, unlike with the Cedar maps, in 2007 the shrub was already distressed prior to the Witch fire. Interestingly we see the same distrubance in 2005, 2010 and 2020. More to investigate in the future!
 
@@ -197,8 +197,8 @@ Because vegetation recovery is tied to climate, I computed annual minimum and ma
 
 Analysis of annual maximum and minimum temperatures from the NOAA NCEI Ramona Airport station shows clear evidence of warming over the past 25 years. Both daytime highs (TMAX) and nighttime lows (TMIN) have increased, although at different rates. In the plotted trend below you can see we are increasing both during the day and at night. Here I have plotted the yearly average maximum temperatures and minimum temperatures: 
 
-![Ramona max temp](img/ramona_max_temp_f_trend.png)
-![Ramona min temp](img/ramona_min_temp_f_trend.png)
+![Ramona max temp](/img/ramona_max_temp_f_trend.png)
+![Ramona min temp](/img/ramona_min_temp_f_trend.png)
 
 Nighttime temperatures in Ramona exhibit a modest but consistent upward trend, which means our cool nights are getting warmer.
 
