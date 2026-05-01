@@ -73,7 +73,7 @@ We can also see in the Kansas map that the surrounding area is also unfragmented
 
 ## From Munitions to Grass? The Midewin National Tallgrass Prairie, Illinois
 
-The Illinois site is a large restoration project. As noted by the U.S. Forestry Service (n.d.), the site "[Turns] back the clock from a landscape dominated by rusting munitions factories and abandoned ammunitions bunkers into a 20,283-acre pristine tallgrass prairie." They go one to embellish that this, "makes the Midewin a compelling vision for landscape scale restoration."
+The Illinois site is a large restoration project. As noted by the U.S. Forestry Service (n.d.), the site "[Turns] back the clock from a landscape dominated by rusting munitions factories and abandoned ammunitions bunkers into a 20,283-acre pristine tallgrass prairie." They go on to embellish that this, "makes the Midewin a compelling vision for landscape scale restoration."
 
 Of course, we know that this site is not pristine especially if it was previously a significantly disturbed site by a different form of "fire."
 
@@ -148,7 +148,7 @@ I also plotted the topographic data or slopes of these sites. As one would expec
 
 ![Topography KS IL](/img/topography_maps.png)
 
-*Figure 3* Based on the gradual change in elevation (in meters), we can see that both of these sites feature gentle hills with the Tallgrass site being more clearly hilly (low of 370 meters above sea level to a high of 450) where as the Midewin site has a west to east hill (low elevation of 165 meters to 205 meters). This means the lower areas of the sites will be wetter which we should also see highlighted in the climate modeling. 
+*Figure 3* Based on the gradual change in elevation (in meters), we can see that both of these sites feature gentle hills with the Tallgrass site being more clearly hilly (low of 370 meters above sea level to a high of 450) whereas the Midewin site has a west to east hill (low elevation of 165 meters to 205 meters). This means the lower areas of the sites will be wetter which we should also see highlighted in the climate modeling. 
 
 ## Climate model data 
 
@@ -179,6 +179,7 @@ It is important to note that this is the suitability within the bounds of the pr
 What is interesting is that under climate change we would expect northern sites to do better, but Illinois fair marginally worse than Kansas. Kansas may just be in the south-north range sweet spot for indiangrass even under projected precipitation stress.
 
 **Considering what the climate models show**
+
 We can also consider how HSI would change under each of the selected climate models. 
 
 ![Change in HSI Model](/img/change_HSI_model.png)
@@ -203,17 +204,15 @@ At Midewin, mean HSI decreases from approximately 0.87 to 0.82, indicating a mea
 
 In contrast, the Tallgrass Prairie site shows minimal change between historical and future conditions. Mean HSI values remain nearly constant (~0.84), and suitable area also remains stable (~45%). This suggests that Tallgrass Prairie is relatively robust to projected mid-century climate changes, at least under the variables included in this model.
 
-Compared to earlier iterations of this analysis (re:boundarygate), differences across climate models are less pronounced. This reflects improvements in spatial processing, including the use of official site boundaries and more consistent raster alignment. As a result, I believe the updated outputs provide a more stable and realistic estimate of habitat suitability.
-
 ## Quanitfying change over time due to model differences
 
-Although earlier runs suggested strong model disagreement—particularly at the Midewin site—the updated results indicate more consistent outcomes across models. Rather than large divergences, the primary pattern is a modest decline in mean suitability at Midewin and near-complete stability at Tallgrass.
+Rather than large divergences, the primary pattern is a modest decline in mean suitability at Midewin and near-complete stability at Tallgrass.
 
 This suggests that projected climate impacts on _Sorghastrum nutans_ habitat are relatively subtle at the spatial scale of this analysis. The results emphasize that changes in habitat quality may occur without large changes in total suitable area.
 
 For example in the pivot table, examining model-specific changes in habitat suitability reveals that the CanESM2 model (warm + wet projection) produces the largest declines in HSI at both sites. This is expected since my climate variable was precipitation. In contrast, the HadGEM2 model (often characterized as warmer and drier) shows little to no change in suitability.
 
-I first thought that drier conditions should to reduce habitat suitability more strongly. However, I have to think how the model thinks, so this pattern reflects the structure of the fuzzy model, which is primarily driven by precipitation rather than temperature. In this framework, increases in precipitation beyond the optimal range can reduce suitability just as much as decreases below it. As a result, the “warm + wet” scenario produces larger declines because it pushes conditions outside the modeled optimal precipitation window, whereas the “warm + dry” scenario may still fall within acceptable bounds even if we know the US will experience warming.
+I first thought that drier conditions should reduce habitat suitability more strongly. However, I have to think how the model thinks, so this pattern reflects the structure of the fuzzy model, which is primarily driven by precipitation rather than temperature. In this framework, increases in precipitation beyond the optimal range can reduce suitability just as much as decreases below it. As a result, the “warm + wet” scenario produces larger declines because it pushes conditions outside the modeled optimal precipitation window, whereas the “warm + dry” scenario may still fall within acceptable bounds even if we know the US will experience warming.
 
 ## Limitations
 
@@ -251,9 +250,14 @@ Climate Toolbox model-selection resources and MACA model comparison tools (https
 
 National Park Service. n.d. National Preserve Kansas. https://www.nps.gov/tapr/index.htm U.S. Forestry Service. n.d. Midewin National Tallgrass Prairie. https://www.fs.usda.gov/r09/midewin
 
+National Park Service. n.d. National Preserve Kansas. https://www.nps.gov/tapr/index.htm 
+
+U.S. Forestry Service. n.d. Midewin National Tallgrass Prairie. https://www.fs.usda.gov/r09/midewin
+
 USDA. n.d. Sorghastrum nutans (L.) Nash. PLANTS database. https://plants.sc.egov.usda.gov/plant-profile/SONU2/characteristics
 
 Walkup, Crystal J. 1991. Sorgastrum nutans. In: Fire Effects Information System, [Online]. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory (Producer). Available: https://www.fs.usda.gov/database/feis/plants/graminoid/sornut/all.html [2026, March 23].
+
 
 
 
