@@ -59,7 +59,7 @@ To evaluate habitat suitability under climate change, I use:
 - Tallgrass Prairie National Preserve, Kansas [referred to as Tallgrass in the notebook]
 - Midewin National Tallgrass Prairie, Illinois [referred to as Midewin in the notebook]
 
-<src="/img/site_maps.png" width="600" height="600">
+![Site Locations](/img/site_maps.png)
 
 *Figure 1* Locations of and boundaries of Tallgrass and Midewin sites
 
@@ -139,14 +139,14 @@ This analysis uses four global climate models (GCMs). These models simulate futu
 ## Soil data
 I pulled the soil data from the POLARIS dataset based on the PLANTS database criteria I specified earlier in the indiangrass introduction. Since the minimum depth of roots for indiangrass is 24 inches, I am using the 60 to 100 cm depth in POLARIS. 24 inches is approximately 60 cm and since it is the minimum, the 60cm to 100cm depth is most suitable.
 
-<src="/img/soil_ph_maps.png" width="600" height="600">
+![Soil pH](/img/soil_ph_maps.png)
 
 *Figure 2* The deep dark blue areas on these maps are water (especially for the Midewin site), which I also confirmed via google earth. I expect there is a lot of fertilizer run off in these areas as there is both agriculture and built environments near these sites. We can see across these maps that beyond water sources, the rest of the landscape meets the pH range for Indiangrass as we expected (4.8-8.0).
 
 ## Topographic data
 I also plotted the topographic data or slopes of these sites. As one would expect from Kansas and Illinois they do not have very heterogenious elevations (e.g. mountains).
 
-<src="/img/topography_maps.png" width="600" height="600">
+![Topography KS IL](/img/topography_maps.png)
 
 *Figure 3* Based on the gradual change in elevation (in meters), we can see that both of these sites feature gentle hills with the Tallgrass site being more clearly hilly (low of 370 meters above sea level to a high of 450) where as the Midewin site has a west to east hill (low elevation of 165 meters to 205 meters). This means the lower areas of the sites will be wetter which we should also see highlighted in the climate modeling. 
 
@@ -158,7 +158,7 @@ In order to project these models I use fuzzy logic modeling. Fuzzy logic modelin
 
 For our modeling we can see some basic information on habitat quality (HSI) first before plotting the habitate suitability. 
 
-<src="/img/mean_hsi.png" width="600" height="600">
+![Mean HSI Table](/img/mean_hsi.png)
 
 *Figure 4* Summary table of HSI at both sites
 
@@ -181,14 +181,14 @@ What is interesting is that under climate change we would expect northern sites 
 **Considering what the climate models show**
 We can also consider how HSI would change under each of the selected climate models. 
 
-<src="/img/change_HSI_model.png" width="600" height="600">
+![Change in HSI Model](/img/change_HSI_model.png)
 
 *Figure 5* Summary table of HSI change at both sites under the different climate models. 
 
 From this table we can see that CanESM2 (warmer and wetter) has a worse outcome for the Midewin, IL site (a total change or delta hsi of a little more than 10%) whereas there is no effect at the Tallgrass, Kansas site. Even under a moderate warming scenario (CNRM-CM5) the Midewin site struggles. In comparison the Tallgrass site is seemingly impervious to any projected climate effects. As a result, the Midewin site is more sensitive/vulnerable to both moderate warming, and warmer + wetter scenarios. As the CanESM2 projection is the most severe, we will plot that.  
 
+![CanESM2 Plot](/img/hsi_maps_CanESM2.png)
 
-<src="/img/hsi_maps_CanESM2.png" width="600" height="600">
 *Figure 6* A plot of the two sites under the CanESM2 scenario. As we already knew from the delta HSI, the Midewin site fairs far worse across the entire extent of the prairie. 
 
 ## Key takeaway
