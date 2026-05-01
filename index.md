@@ -23,7 +23,7 @@
 <div class="project-grid">
 
   <div class="project-card">
-    h3><a href="{{ '/projects/Habitat_suitability.html' | relative_url }}">Habitat Suitability</a></h3>
+    <h3><a href="{{ '/projects/Habitat_suitability.html' | relative_url }}">Habitat Suitability</a></h3>
     <p>Climate modeling of two prarie sites using fuzzy modeling.</p>
     <p><em>Climate change · HSI · Remote sensing</em></p>
   </div>
@@ -35,25 +35,25 @@
   </div>
 
   <div class="project-card">
-    h3><a href="{{ '/projects/gila.html' | relative_url }}">Gila River Vegetation Health</a></h3>
+    <h3><a href="{{ '/projects/gila.html' | relative_url }}">Gila River Vegetation Health</a></h3>
     <p>NDVI trends and water rights impacts on vegetation in Arizona.</p>
     <p><em>NDVI · Water policy · Environmental justice · Remote sensing</em></p>
   </div>
 
   <div class="project-card">
-    h3><a href="{{ '/projects/boulder.html' | relative_url }}">Boulder Climate Trends</a></h3>
+    <h3><a href="{{ '/projects/boulder.html' | relative_url }}">Boulder Climate Trends</a></h3>
     <p>Long-term temperature change analysis using NOAA data.</p>
     <p><em>Climate analysis · NOAA data · Time series · Python</em></p>
   </div>
   
   <div class="project-card">
-    h3><a href="{{ '/projects/timberdoodle.html' | relative_url }}">Timberdoodles (American Woodcock)</a></h3>
+    <h3><a href="{{ '/projects/timberdoodle.html' | relative_url }}">Timberdoodles (American Woodcock)</a></h3>
     <p>Species distribution, migration patterns, and data reliability using GBIF and eBird.</p>
     <p><em>GBIF · Species distribution · Data validation · Visualization</em></p>
 </div>
 
   <div class="project-card">
-    h3><a href="{{ '/projects/minamisanriku.html' | relative_url }}">Minamisanriku Mapping</a></h3>
+    <h3><a href="{{ '/projects/minamisanriku.html' | relative_url }}">Minamisanriku Mapping</a></h3>
     <p>Fieldwork and land-sea boundary mapping in Japan.</p>
   </div>
 
