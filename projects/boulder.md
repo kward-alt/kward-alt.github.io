@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Climate Change in Boulder, CO
