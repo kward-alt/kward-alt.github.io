@@ -15,7 +15,8 @@ In this project I look at the habitate suitability of Sorghastrum nutans (Indian
 I selected Sorghastrum nutans (Indiangrass), a native warm-season perennial bunch grass (i.e., grows in clumps) common in tallgrass and mixed-grass prairie systems across much of the central and eastern contiguous United States. It is typically found in open grasslands, prairie restorations (or land reclaimation projects), fallow farmland, and especially where periodic fire limits woody encroachment. There are two sites of interest for this project: Illinois and Kansas.
 
 Geographic range is broad in CONUS, but persistence is strongest in intact prairie landscapes. Main pressures that disrupt indiangrass include conversion to agriculture/urban land cover (the primary driver of indiangrass loss), fragmentation (also due to human activity), woody encroachment from fire suppression, and climate-driven loss due to moisture stress. Since moisture stress is important I focus on precipation as my climate variable in this project.
-Benefits of indiangrass
+
+## Benefits of indiangrass
 
 The loss of indiagrass harms both ecosystem services and native species that rely on it. For example, indiangrass provides substantial ecological value:
 
