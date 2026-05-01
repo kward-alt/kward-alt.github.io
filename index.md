@@ -23,6 +23,12 @@
 <div class="project-grid">
 
   <div class="project-card">
+    <h3><a href="#habitat">Habitat Suitability</a></h3>
+    <p>Climate modeling of two prarie sites using fuzzy modeling.</p>
+    <p><em>Climate change · HSI · Remote sensing</em></p>
+  </div>
+  
+  <div class="project-card">
     <h3><a href="{{ '/projects/ramona.html' | relative_url }}">Ramona Fire Recovery</a></h3>
     <p>Vegetation recovery, NDVI trends, and fire perimeter analysis in Southern California.</p>
     <p><em>GIS · Remote sensing · NDVI · Fire ecology</em></p>
