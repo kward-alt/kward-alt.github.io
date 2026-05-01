@@ -10,6 +10,8 @@ title: Habitat Suitability
 
 In this project I look at the habitate suitability of Sorghastrum nutans (Indiangrass) under four different climate projections at two different sites in the US. 
 
+You can find the notebook code [here](/img/habitat_suitability.html)
+
 ## Indiangrass overview
 
 I selected Sorghastrum nutans (Indiangrass), a native warm-season perennial bunch grass (i.e., grows in clumps) common in tallgrass and mixed-grass prairie systems across much of the central and eastern contiguous United States. It is typically found in open grasslands, prairie restorations (or land reclaimation projects), fallow farmland, and especially where periodic fire limits woody encroachment. There are two sites of interest for this project: Illinois and Kansas.
