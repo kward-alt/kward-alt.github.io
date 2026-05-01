@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Habitat Suitability
+title: Kayleigh Ward
 ---
 
 [← Back to portfolio](https://kward-alt.github.io/)
