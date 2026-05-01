@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Ramona Fire Recovery
