@@ -27,6 +27,12 @@
     <p>Climate modeling of two prarie sites using fuzzy modeling.</p>
     <p><em>Climate change · HSI · Remote sensing</em></p>
   </div>
+
+  <div class="project-card">
+    <h3><a href="{{ '/projects/land_cover_clustering.html' | relative_url }}">Land Cover Clustering</a></h3>
+    <p>Land cover clustering in Southern CA watersheds.</p>
+    <p><em>Land cover · multispectral data · Remote sensing</em></p>
+  </div>
   
   <div class="project-card">
     <h3><a href="{{ '/projects/ramona.html' | relative_url }}">Ramona Fire Recovery</a></h3>
