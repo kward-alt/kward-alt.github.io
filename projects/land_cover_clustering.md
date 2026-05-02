@@ -29,9 +29,11 @@ As one might expect, this subwatershed like many others in California is under c
 Personally, I think the feature of this subwatershed is interesting to explore from both an ecological and land-use perspective as it is a place where vegetation, built infrastructure, water, and climate stress are tightly connected.
 
 ![Southern California watersheds](/img/upper_santa_maria_watershed_map.png)
+
 *Figure 1:* Santa Maria and Cuyama Rivers watershed with the Upper Santa Maria Subwatershed in red (original figure from Paradigm Environmental, 2025). 
 
-![html of SMCB](/img/upper_santa_maria_creek_watershed.html)
+<embed type="text/html" src="/img/upper_santa_maria_creek_watershed.html" width="600" height="600">
+
 *Figure 2:* Interactable map of only the Santa Maria Creek Subwatershed (HUC12 180703040203). 
 
 
@@ -77,7 +79,8 @@ It is important to note that cluster labels are not physical measurements. The b
 
 ## What the clusters show
 
-![RGB image and KMeans cluster map side by side](/img/kmeans_rgb_comparison.html)
+<embed type="text/html" src="/img/kmeans_rgb_comparison.html" width="600" height="600">
+
 *Figure 3:* This is a comparison between the satillite bands and KMeans clustering. 
 
 The final KMeans map suggests a somewhat clear gradient across the watershed, from more vegetated upland areas to drier or more developed areas in the basin.
