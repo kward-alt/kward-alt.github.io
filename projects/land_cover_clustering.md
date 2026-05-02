@@ -87,12 +87,10 @@ The final KMeans map suggests a somewhat clear gradient across the watershed, fr
 
 | Cluster pattern | Land cover grouping | Interpretation details |
 |---|---|---|
-| Cluster 0/1 | Likely vegetation | Higher near-infrared reflectance and lower red reflectance, especially in uplands and oak-lined ravines |
-| Cluster 1/2 | Moderate vegetation or mixed cover | Similar to the more vegetated cluster, but less dense or more mixed |
-| Cluster 2/3 | Sparse vegetation or disturbed areas | Lower near-infrared reflectance and higher visible-band reflectance, suggesting exposed soil or reduced vegetation cover |
-| Cluster 3/4 | Built environments | Bright tan and white areas in the RGB image align with much of central Ramona |
-| Cluster 4/5 | Dry soil or bare ground | Higher shortwave infrared and red reflectance, often associated with dry exposed surfaces |
-| Cluster 5 | Mixed or transitional areas | Ambiguous spectral signatures that likely reflect mixed pixels or intermediate landscape conditions |
+| Cluster 0 and 1 (dark blue and orange)| Likely vegetation | Higher near-infrared reflectance and lower red reflectance, especially in uplands and oak-lined ravines |
+| Cluster 2 (green) | Moderate vegetation or mixed cover | Similar to the more vegetated cluster, but less dense or more mixed |
+| Cluster 3 (lite blue) | Built environments | Bright tan and white areas in the RGB image align with much of central Ramona |
+| Cluster 4 and 5 (pink and black) | Transitional built areas or bare ground | Higher shortwave infrared and red reflectance, often associated with dry or exposed surfaces |
 
 The upland and mountainside areas are generally captured by the more vegetated clusters. Some small water features are difficult to distinguish because they occur in deep ravines with dense trees along the banks, making them spectrally similar to shaded or dense vegetation rather than open water. 
 
